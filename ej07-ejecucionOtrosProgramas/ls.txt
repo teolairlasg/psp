@@ -1,0 +1,4 @@
+total 24
+-rwxr-xr-x 1 usuario usuario 16616 oct  4 10:03 lanzador
+-rw-r--r-- 1 usuario usuario   206 oct  4 10:03 lanzador.c
+-rw-r--r-- 1 usuario usuario     0 oct  4 10:03 ls.txt
